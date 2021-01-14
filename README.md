@@ -4,4 +4,4 @@ Thanks for visiting mystudio
 **Alex's web page** is a portfolio web page.
 
 
-* [**Web page**](https://theAlexstudio/) - A bundle of 26 HTML5 templates; best value for your money. 
+* [**Web page**](https://tak-photography.netlify.app/) - A web page for some photos I shot
