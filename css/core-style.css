@@ -1001,8 +1001,9 @@ img {
 #googleMap {
     width: 100%;
     height: 485px;
-    position: relative;
+    position: right;
     z-index: 1;
+    margin-left: 200px;
 }
 
 .contact-core-info {
