@@ -261,6 +261,11 @@ img {
     max-width: 100%;
 }
 
+.single-service-area img{
+    height: 50px;
+    max-width: 100%;
+}
+
 .studio-table {
     display: table;
     z-index: 9;
